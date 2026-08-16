@@ -9,7 +9,7 @@ Saul ,,Juan Carlos,Finalizado ,0.2,0.0,0.0,0.0,Ricardo
 Saul ,,Jose Alfredo ,Finalizado ,0.5,1.0,0.0,0.0,Mauricio 
 Saul ,,Jacinto ,Finalizado ,0.8,0.0,0.0,0.0,Nancy
 Saul ,,Felipe ,Finalizado ,0.8,1.0,0.0,0.0,Alan 
-Saul ,,Luz Mercedes,Venta ,1,1.0,1.0,1.0,Mauricio 
+Saul ,,Luz Mercedes,Venta ,1.0,1.0,1.0,1.0,Mauricio 
 Antonio,,Enrique,Finalizado ,0.8,1.0,1.0,0.0,Alan 
 Saul ,,Esteban ,Finalizado ,0.6,0.0,0.0,0.0,Aurelio 
 Saul ,,Ramon ,Finalizado ,0.9,1.0,1.0,0.0,Eduardo 
@@ -17,7 +17,7 @@ Saul ,,Jose de Jesus ,Finalizado ,0.6,1.0,0.0,0.0,Alan
 Saul ,,Mugdel Janer Morales,Venta ,0.8,0.0,1.0,0.0,Victor 
 Antonio,,Carlos Alberto Rios,Activo ,0.8,0.0,1.0,0.0,Mauricio 
 Antonio,,Vicente Cortes  ,Finalizado ,0.6,1.0,0.0,0.0,Alan 
-Antonio,,Angel  ,Venta ,1,1.0,1.0,1.0,pedro
+Antonio,,Angel  ,Venta ,1.0,1.0,1.0,1.0,pedro
 Antonio,,Jorge Luis Nunez ,Activo ,0.8,1.0,0.0,0.0,Mauricio 
 Antonio,,Mercy,Finalizado ,0.2,1.0,0.0,0.0,pedro
 Antonio,,Antonio Rodriguez,Activo ,0.8,1.0,0.0,0.0,Alan 
@@ -26,12 +26,12 @@ Antonio,,Samuel Salamanca,Acitvo ,0.8,0.0,0.0,0.0,pedro
 Antonio,,Christoph Vega,Activo ,0.8,0.0,0.0,0.0,Mauricio 
 Saul ,,Jose Campos ,Activo ,0.7,0.0,1.0,0.0,Ricardo 
 Saul ,,Roberto Luis Pacheco,Activo ,0.4,0.0,0.0,0.0,Pedro
-Antonio,,Carlos  Texis  Rodriguez  ,Venta ,1,1.0,1.0,1.0,Alan 
+Antonio,,Carlos  Texis  Rodriguez  ,Venta ,1.0,1.0,1.0,1.0,Alan 
 Antonio,,Javier Pazos,Acitvo ,0.7,1.0,1.0,0.0,Eduardo 
 Antonio,,Roberto Portilla,Activo ,0.7,0.0,0.0,0.0,Victor 
 Antonio ,,Julian marin castillo,Activo ,0.8,1.0,0.0,0.0,Aurelio 
 Citas efectivas,,,,,,,,
-Saul ,,13,11,Ventas ,9.0,,,
+Saul ,,13,11,0.0,9.0,,,
 MAYO,,,,,0.0,0.0,0.0,
 Antonio,,Edgar Becerril,Venta,0.8,1.0,1.0,1.0,Ricardo 
 Antonio,,Quetzalli Fernanda,Acitvo ,0.8,1.0,1.0,0.0,Ricardo 
@@ -113,7 +113,7 @@ Antonio,,Patricia Rios,Activo,0.6,1.0,0.0,0.0,Pedro Antonio
 Antonio,,Armando Alvarez Morales,Activo,0.8,1.0,1.0,0.0,Mauricio
 Antonio,,Juan Manuel Infante,Activo,0.85,1.0,1.0,0.0,Marcos coca
 Saul,,Gustavo Rojas Garcia,Activo ,0.8,1.0,1.0,0.0,Victor 
-Saul,,Mauricio Garcia,Activo ,80%%,1.0,1.0,0.0,
+Saul,,Mauricio Garcia,Activo ,80.0,1.0,1.0,0.0,
 Antonio,,Susana Morales Gutierrez,Activo,0.8,1.0,0.0,0.0,Alan Gonzalez
 Antonio,,Valerio Figueroa,Activo ,0.8,1.0,0.0,0.0,Mauricio
 Antonio,,Sr Martinez,Activo,0.8,1.0,0.0,0.0,Marcos coca
@@ -366,7 +366,7 @@ Ana,,Jose Luis Guevara,Activo,0.8,0.0,0.0,0.0,Victor
 Ana,,Dario Castillo,Activo,0.8,0.0,0.0,0.0,Victor
 Ana,,Sixto Tito,Activo,0.8,0.0,0.0,0.0,Victor
 Antonio,,Antonio Sanchez,Activo,0.8,1.0,0.0,0.0,Cesar
-Ana ,,Marco Antonio,Activo,8'%,0.0,0.0,0.0,Julio
+Ana ,,Marco Antonio,Activo,8.0,0.0,0.0,0.0,Julio
 Antonio,,Andy,Activo,0.8,1.0,0.0,0.0,Nancy
 Antonio,,Hugo,Activo,0.8,1.0,0.0,0.0,Nancy
 Antonio,,Vicente Acosta,Activo,0.8,1.0,0.0,0.0,Mauricio
@@ -449,7 +449,7 @@ Ana,,Pimentel Eleuterio,,,0.0,0.0,0.0,Cesar Pestaña
 Antonio,,Frida T,Activo,0.9,1.0,1.0,0.0,Alan
 Ana,,Alicia Avila,Activo,0.8,0.0,0.0,0.0,Julio
 Ana,,Carlos Lozano Ramos,Activo,0.7,1.0,0.0,0.0,Julio 
-Ana,,MA ELENA ISABEL LEAN BURGOS-,Activo ,1,1.0,1.0,0.0,AURELIO
+Ana,,MA ELENA ISABEL LEAN BURGOS-,Activo ,1.0,1.0,1.0,0.0,AURELIO
 Antonio,,Miguel Galindo Aburto,Activo,0.8,0.0,0.0,0.0,Alan
 Antonio,,Omar Reyes,Activo,0.75,1.0,0.0,0.0,Julio
 Antonio,,Fernando Tellez,Activo,0.6,0.0,0.0,0.0,Carlos Hdz
@@ -493,7 +493,7 @@ Antonio,,Alejandro Cruz Adabache,Activo,,0.0,0.0,0.0,Alvaro
 Antonio,,Juan José castellon,Activo,0.8,0.0,0.0,0.0,Ivan
 Antonio,,Dianarely Marquez,Activo,0.6,0.0,0.0,0.0,Mauricio
 Ana,,Dr Julio Cesar,Activo,0.7,0.0,0.0,0.0,Vanny
-Ana,,David Omar Damián González,Activo,80%%,0.0,0.0,0.0,Victor
+Ana,,David Omar Damián González,Activo,80.0,0.0,0.0,0.0,Victor
 Ana,,Arturo Delgado García,Activo,0.5,0.0,0.0,0.0,Victor
 Ana ,,Mario Moreno,Activo,0.8,0.0,0.0,0.0,Pedro
 Ana,,Victor Luciano Huerta Acosta Huerta,Activo,0.8,0.0,0.0,0.0,Pedro
@@ -569,8 +569,8 @@ Ignacio ,,Ruben Lopez ,Activo,,1.0,1.0,0.0,Mario
 Ignacio ,,Jaime trejo ,Activo ,0.7,1.0,1.0,0.0,Pedro 
 Igancio ,,Alma Sanchez ,Activo ,,0.0,0.0,0.0,Pedro 
 Ignacio ,,Carlos Cervantes ,Activo ,,0.0,0.0,0.0,Mauricio 
-Ignacio ,,Santa Garcia ,Activo ,1,1.0,1.0,1.0,Carlos 
-Ignacio ,,Raul Miranda ,Activo ,1,0.0,1.0,1.0,Mauricio 
+Ignacio ,,Santa Garcia ,Activo ,1.0,1.0,1.0,1.0,Carlos 
+Ignacio ,,Raul Miranda ,Activo ,1.0,0.0,1.0,1.0,Mauricio 
 Ana ,,Juan Manuel Hernández,Activo,,1.0,0.0,0.0,Fatima
 Ana,,Ramon Castro Vite,Activo,,1.0,1.0,0.0,Fatima
 Ana,,Ernesto Pachuca,Activo,,0.0,1.0,0.0,Carlos Mejia
@@ -593,17 +593,17 @@ Ana,,Jorge A Quiroz,Activo,0.7,1.0,0.0,0.0,Pedro
 Ignacio ,,Michel Taja ,Activo ,0.5,0.0,0.0,0.0,Aurelio 
 Ignacio ,,Jairo Rodriguez ,Activo ,0.5,0.0,0.0,0.0,Victro 
 Ignacio ,,Arturo Lopez ,Activo ,0.5,0.0,0.0,0.0,Pedro
-Ignacio ,,Yolanda Castellanos ,Activo ,1,0.0,1.0,1.0,Victor 
-Ana ,,Juan Roque,Activo ,1,1.0,1.0,0.0,Aurelio
-Igancio ,,Maria guadalupe Serrano ,Activo ,1,0.0,0.0,1.0,Victor 
+Ignacio ,,Yolanda Castellanos ,Activo ,1.0,0.0,1.0,1.0,Victor 
+Ana ,,Juan Roque,Activo ,1.0,1.0,1.0,0.0,Aurelio
+Igancio ,,Maria guadalupe Serrano ,Activo ,1.0,0.0,0.0,1.0,Victor 
 Ana,,MARCO ANTONIO CHARTUNI,Activo,0.8,0.0,1.0,0.0,Aurelio
-Ana,,Alexey ,Activo ,1,1.0,1.0,0.0,Ana
-Ana,,Brenda Lucero,Activo ,1,1.0,1.0,0.0,VICTOR
+Ana,,Alexey ,Activo ,1.0,1.0,1.0,0.0,Ana
+Ana,,Brenda Lucero,Activo ,1.0,1.0,1.0,0.0,VICTOR
 2026-06-01 00:00:00,,,,,0.0,0.0,0.0,
 Ignacio ,2026-06-01,Francisco Cacho ,Activo ,0.5,0.0,0.0,0.0,Mario 
 Ignacio ,2026-06-01,Guillermo Hernandez ,Activo ,0.5,1.0,0.0,0.0,Pedro Antonio 
 Ignacio ,2026-06-02,Roberto Quintana ,Activo ,0.5,0.0,0.0,0.0,Nayeli 
-Ignacio ,2026-06-03,Karla Marquez ,Activo ,1,0.0,0.0,1.0,Pedro
+Ignacio ,2026-06-03,Karla Marquez ,Activo ,1.0,0.0,0.0,1.0,Pedro
 Ana ,2026-06-01,Javier Juarez Solano,Activo,0.7,1.0,0.0,0.0,Vanny
 Ana,2026-06-03,Ommar Herrera,Activo,0.8,1.0,0.0,0.0,Carlos mejia
 Ana,2026-06-04,Andres Cuevas,Activo,0.6,0.0,0.0,0.0,Carlos Mejia 
@@ -644,7 +644,7 @@ Ana,2026-06-17,Moises Hdez,Activo,0.7,0.0,0.0,0.0,Aurelio
 2027-07-01 00:00:00,,,,,0.0,0.0,0.0,
 Ignacio ,2026-06-04,Arquimedes Rugerio ,Activo ,0.6,1.0,0.0,0.0,Nayeli 
 Ignacio ,2026-06-04,Victor Manuel Diaz Ortiz ,Activo ,0.6,1.0,0.0,0.0,Cesar Pestaña
-Ana,2026-06-02,Margarita Romero Castillo,Activo ,1,1.0,1.0,0.0,Pedro Antonio
+Ana,2026-06-02,Margarita Romero Castillo,Activo ,1.0,1.0,1.0,0.0,Pedro Antonio
 Ana,2026-07-07,Eder Chavez,Activo ,0.7,1.0,0.0,0.0,Fatima
 Ana,2026-07-07,Alejandro VELAZQUEZ,Activo ,0.8,1.0,1.0,0.0,Nayeli
 Ana,2026-07-11,Miguel irigoyen,Activo ,0.8,0.0,0.0,0.0,Julio
@@ -655,11 +655,11 @@ Ana,2026-07-08,Ruben Vargas,Acrivo,0.8,1.0,1.0,0.0,Julio
 Ana ,2026-07-04,Edgar Herrera,Activo,0.8,1.0,0.0,0.0,Fatima
 Igancio ,2026-07-14,luis Hernandez,Activo ,0.5,1.0,0.0,0.0,Nayeli 
 Ignacio ,2026-07-14,Omar Garcia ,Activo ,0.5,1.0,0.0,0.0,Nayeli 
-Ignacio ,2026-07-13,Rosaura Mendez Quechol ,Activo ,1,0.0,0.0,1.0,Mauricio 
+Ignacio ,2026-07-13,Rosaura Mendez Quechol ,Activo ,1.0,0.0,0.0,1.0,Mauricio 
 Ana,2026-07-14,Alfonso f,Activo,0.7,1.0,0.0,0.0,Nayeli
 Ana,2026-07-10,Lizbeth Garcia,Activo,0.7,1.0,0.0,0.0,Julio
 Ana ,2026-07-11,Mike Mora,Activo,0.9,0.0,1.0,0.0,Alfredo
-Ana,2026-07-14,Azucena de Jesus machorro arreola,Activo,1,1.0,1.0,0.0,Nayeli
+Ana,2026-07-14,Azucena de Jesus machorro arreola,Activo,1.0,1.0,1.0,0.0,Nayeli
 Ana,2026-07-13,Jose F,Activo,0.8,0.0,0.0,0.0,
 Ana,2026-07-16,Daniel Padilla,Activo,0.9,1.0,1.0,0.0,Fernanda
 Ana,2025-07-16,Juan Carazo Juan Carazo,Activo,0.8,0.0,0.0,0.0,Pedro
@@ -670,6 +670,6 @@ Ignacio ,2026-07-18,Johancarlo Islas ,Activo ,0.5,0.0,0.0,0.0,Julio Cesar
 Ana,2026-07-16,Margaret Silva Serrano,Activo,0.8,1.0,0.0,0.0,Nayeli
 Ignacio ,2026-07-21,Carlos Balderrama ,Activo ,0.5,1.0,1.0,1.0,Mario Varela 
 Ignacio ,2026-07-21,Andrés Netzahuatl ,Activo ,0.5,0.0,0.0,0.0,Mauricio 
-Ana,2026-07-22,Arat Israel,Activo,80&,1.0,1.0,0.0,Aurelio
+Ana,2026-07-22,Arat Israel,Activo,80.0,1.0,1.0,0.0,Aurelio
 Ana,2026-07-22,Maira Escalante,Activo ,0.8,1.0,1.0,0.0,Pedro Antonio
 Ignacio ,2026-07-22,Zaira Macip ,Activo ,0.5,0.0,0.0,0.0,Aurelio 
